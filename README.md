@@ -1,16 +1,14 @@
 # 🛒 React.js E-Commerce Website
-A fully responsive e-commerce website built using the React.js framework. This project showcases a modern shopping interface with seamless UI, dynamic state management, and easy backend integration.
+A modern and fully responsive frontend E-commerce application built using **React.js**. This project demonstrates clean UI/UX design, dynamic product rendering from APIs, and seamless responsiveness across devices.
 ---
 ## ✨ Features
-🔧 Easy integration with any backend service
 
-📱 Fully responsive design for all devices
-
-🛍 Product listing using Fake Store API
-
-🗂 State management with Redux
-
-⚡ Clean and optimized user interface using Bootstrap
+- 📦 Product listing using Fake Store API  
+- 💻 Fully responsive across mobile, tablet, and desktop  
+- ⚙️ Component-based architecture for scalability  
+- 🧩 State management using Redux  
+- 🎨 Styled with Bootstrap for a clean layout  
+- 🔍 Category-wise filtering and basic product navigation
 ---
 
 📸 Screenshots
