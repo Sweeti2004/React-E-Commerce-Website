@@ -1,7 +1,7 @@
-🛒 React.js E-Commerce Website
+# 🛒 React.js E-Commerce Website
 A fully responsive e-commerce website built using the React.js framework. This project showcases a modern shopping interface with seamless UI, dynamic state management, and easy backend integration.
-
-✨ Features
+---
+## ✨ Features
 🔧 Easy integration with any backend service
 
 📱 Fully responsive design for all devices
@@ -11,6 +11,7 @@ A fully responsive e-commerce website built using the React.js framework. This p
 🗂 State management with Redux
 
 ⚡ Clean and optimized user interface using Bootstrap
+---
 
 📸 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e10430ee-ee8f-4da6-ba15-6a45007938ea" />
@@ -31,41 +32,43 @@ A fully responsive e-commerce website built using the React.js framework. This p
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23bfe014-334d-4fbf-b557-fc4d63ee5bb4" />
 
+---
+## Tech Stack
+- React.js – Frontend Library
 
-🛠 Tech Stack
-React.js – Frontend Library
+- Redux – State Management
 
-Redux – State Management
+- Bootstrap – UI Styling
 
-Bootstrap – UI Styling
+- Fake Store API – Product Data API
+---
 
-Fake Store API – Product Data API
-
-🔮 Future Enhancements
+## Future Enhancements
 
 🔐 User Authentication
-Implement secure login and signup functionality using JWT or OAuth for personalized user experiences.
+- Implement secure login and signup functionality using JWT or OAuth for personalized user experiences.
 
-🛒 Dynamic Cart & Checkout System
+- Dynamic Cart & Checkout System
 Integrate a full cart management system with quantity updates, coupon support, and multi-step checkout.
 
-💳 Payment Gateway Integration
+- Payment Gateway Integration
 Add support for real-time payment processing using services like Razorpay, Stripe, or PayPal.
 
-🗃️ Backend Integration
+-Backend Integration
 Connect with a Node.js + Express.js backend and MongoDB for managing users, products, and orders dynamically.
 
-📝 Product Reviews & Ratings
+- Product Reviews & Ratings
 Enable users to leave reviews, star ratings, and feedback on purchased products.
 
-📦 Order History & Tracking
+- Order History & Tracking
 Allow users to track their past and ongoing orders with delivery status updates.
 
-🔍 Advanced Search & Filters
+- Advanced Search & Filters
 Improve product discovery using keyword search, category filters, and price range sliders.
 
-📊 Admin Dashboard
+- Admin Dashboard
 Build a separate admin panel for managing inventory, orders, users, and analytics.
+---
 ### Developer
 
 - Sweeti Kumari
