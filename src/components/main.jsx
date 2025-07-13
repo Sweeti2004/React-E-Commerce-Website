@@ -21,8 +21,8 @@ const Home = () => {
             className="fw-bold mb-4"
             style={{
               fontSize: "3.5rem",
-              color: "#C0392B", // bold tomato red
-              textShadow: "1px 1px 4px rgba(0,0,0,0.6)",
+              color: "#C0392B", // Deep Tomato Red
+              textShadow: "1px 1px 4px rgba(0,0,0,0.5)",
             }}
           >
             Style, Sparkle & Smart Tech — All in One Place!
@@ -31,7 +31,7 @@ const Home = () => {
           <p
             className="fs-4 mb-3"
             style={{
-              color: "#E74C3C", // coral red
+              color: "#E74C3C", // Coral Red
               lineHeight: "1.8",
               textShadow: "1px 1px 3px rgba(0,0,0,0.3)",
             }}
@@ -44,7 +44,7 @@ const Home = () => {
           <p
             className="fs-5"
             style={{
-              color: "#F1948A", // soft rose red
+              color: "#F1948A", // Light Rose
               fontWeight: "500",
               textShadow: "1px 1px 2px rgba(0,0,0,0.2)",
             }}
@@ -55,7 +55,12 @@ const Home = () => {
 
           <a
             href="/product"
-            className="btn btn-danger mt-4 px-4 py-2 fs-5 fw-semibold shadow"
+            className="btn mt-4 px-4 py-2 fs-5 fw-semibold shadow"
+            style={{
+              background: "linear-gradient(to right, #E74C3C, #F5B7B1)", // Coral to soft rose
+              border: "none",
+              color: "#fff",
+            }}
           >
             Shop Now →
           </a>
