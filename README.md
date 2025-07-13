@@ -14,7 +14,7 @@ A modern and fully responsive frontend E-commerce application built using **Reac
 📸 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e10430ee-ee8f-4da6-ba15-6a45007938ea" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db589971-85a2-43ee-9e94-533e00b198e6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6de9f62-af87-472a-b34a-f76d936b945e" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f62b227c-649e-434a-bc37-facd40a7ff37" />
 
@@ -28,7 +28,8 @@ A modern and fully responsive frontend E-commerce application built using **Reac
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/785b2efc-ae9a-4b44-bbe7-f431a1007e75" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23bfe014-334d-4fbf-b557-fc4d63ee5bb4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5189ca01-14d5-49f7-b9e8-556947783d6b" />
+
 
 ---
 ## Tech Stack
