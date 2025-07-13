@@ -53,7 +53,7 @@ Integrate a full cart management system with quantity updates, coupon support, a
 - Payment Gateway Integration
 Add support for real-time payment processing using services like Razorpay, Stripe, or PayPal.
 
--Backend Integration
+- Backend Integration
 Connect with a Node.js + Express.js backend and MongoDB for managing users, products, and orders dynamically.
 
 - Product Reviews & Ratings
